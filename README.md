@@ -20,10 +20,6 @@ When I started this project, I wanted to show that I understand both the technic
 
 The PowerShell script shows my automation skills and understanding of practical endpoint management needs. I focused on inventory collection because it's something that provides immediate value to any organization - you need to know what devices you have before you can effectively manage them. The script is designed to be production-ready with clean output formatting that integrates well with enterprise systems like ServiceNow.
 
-## Learning Experience
-
-Working on this project helped me better understand the complexity of enterprise endpoint management. It's not just about pushing out policies - you need to understand what devices you're managing first. The inventory script taught me how important data collection is for making informed decisions about device refresh cycles and support planning. I spent time researching how endpoint data integrates with ITSM tools like ServiceNow, which is crucial for maintaining accurate asset records.
-
 ## Future Enhancements
 
 If I had access to a full lab environment, I would extend this project to include actual policy testing and deployment metrics. I'm also interested in exploring more advanced automation scenarios and integration with other security tools that are commonly used alongside Intune and MECM.
